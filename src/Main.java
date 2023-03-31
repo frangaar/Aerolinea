@@ -1,8 +1,11 @@
 import javax.swing.*;
 
 public class Main {
- 
-/* Holiiiiii */
+
+    /**
+     * :)
+     * @param args
+     */
     public static void main(String[] args){
 
         User objCreateUsers = new User();
